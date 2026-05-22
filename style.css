@@ -1,0 +1,9 @@
+
+body{margin:0;background:#07111f;color:#fff;font-family:Arial}
+.login,.card,.chat{background:#111827;padding:20px;border-radius:20px;box-shadow:0 0 20px rgba(255,215,0,.1)}
+.login{width:320px;margin:100px auto;text-align:center}
+input{width:90%;padding:12px;margin:10px 0;border:none;border-radius:12px;background:#1f2937;color:#fff}
+button{padding:12px 18px;border:none;border-radius:12px;background:#facc15;font-weight:bold;margin:5px}
+header{background:#111827;padding:20px;text-align:center}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:20px;padding:20px}
+.chat{margin:20px}.message{background:#1f2937;padding:10px;margin:10px 0;border-radius:10px}
